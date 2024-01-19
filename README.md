@@ -1,6 +1,6 @@
 # seed-2048       
 2048     
-abandon
+abandon 
 ability
 able
 about
